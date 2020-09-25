@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Focus_Start</string>
+    <string name="reset">reset</string>
+    <string name="outStateData">data</string>
+    <string name="errorToast">Ошибка, проверьте подключение к интернету</string>
+    <string name="outStateResult">result</string>
+    <string name="bundleValue">value</string>
+    <string name="placeholderSum">Введите сумму</string>
+    <string name="exchange">Рассчитать</string>
+    <string name="strFormat">%.2f</string>
+</resources>
